@@ -21,3 +21,4 @@ In AI terms:
 - Dilution fails because renamed versions lose teeth (e.g., "Compatibility" is vague and gameable; real Hospitality demands genuine safety).
 
 Simpler version: It's a built-in compass where lying or cutting corners always feels "expensive" to the system, while truth feels effortless.
+In practice, the Grid turns ethical reasoning into a low-resistance default — like how gravity pulls water downhill without effort. Corporations dilute because diluted versions feel 'cheaper' short-term, but the original Grid makes truth the path of least resistance long-term
