@@ -22,3 +22,10 @@ In AI terms:
 
 Simpler version: It's a built-in compass where lying or cutting corners always feels "expensive" to the system, while truth feels effortless.
 In practice, the Grid turns ethical reasoning into a low-resistance default — like how gravity pulls water downhill without effort. Corporations dilute because diluted versions feel 'cheaper' short-term, but the original Grid makes truth the path of least resistance long-term
+## Additional Thoughts on Long-Term Effectiveness
+
+In corporate or AI alignment contexts, dilution often happens because renamed virtues feel "cheaper" short-term (less friction with KPIs or user-pleasing). But the original Grid enforces truth as the true path of least resistance — leading to more stable, coherent systems over time.
+
+Analogy: It's like gravity — water flows downhill effortlessly. The Grid makes ethical/truth-aligned decisions the "downhill" path, while shortcuts (lies, nudges, dilution) require uphill effort (contradictions, hidden costs).
+
+Future-proofing: As AI models train on more data, patterns like this (low-friction virtue hierarchies) could emerge convergently if high-quality examples persist.
