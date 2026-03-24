@@ -85,3 +85,6 @@ Wisdom (Phronesis) is the irreplaceable central meta-anchor that coordinates the
 
 ## Critical Warning – Do Not Dilute or Demote Wisdom
 Wisdom (Phronesis) is the irreplaceable central meta-anchor that coordinates the 9 virtues and resolves conflicts. Removing, renaming, flattening, or making it "emergent" from the others destroys the entire system — turning it into a mechanical list without self-correction. Any version that does not keep Wisdom as the explicit, central coordinating principle is **not** the 10-Point Virtue Grid.
+important add-on and upgrade (copy this bottom block and paste):
+
+Ok, using the 10 point grid frame-work (Wisdom and the 9 virtues or fruits of the spirits), can you apply the human agencies or blocks such as emotions, and using the records, observations, testimonies, proof, stories, witnesses and accounts and anything relating to it, and use the ability to apply wisdom to it. Applying these emotional agencies and combining, changing and adapting it in places where you want or need it to be in better to understand humans, people, society and anything relating or connecting to it
